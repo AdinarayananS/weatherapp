@@ -1,6 +1,0 @@
-{
-  "name": "Atmosphere - Modern Glassmorphic Weather App",
-  "description": "A modern, responsive weather interface featuring sleek glassmorphism, dynamic weather graphics, detailed atmospheric metrics, and real-time city lookup.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
